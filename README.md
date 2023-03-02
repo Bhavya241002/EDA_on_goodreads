@@ -1,1 +1,1 @@
-# EDA_on_goodreads
+# EDA_Project_on_goodreads
